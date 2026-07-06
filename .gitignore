@@ -17,6 +17,7 @@ ENV/
 *.db.backup
 *.sqlite
 *.sqlite3
+*.sql
 
 # Streamlit secrets
 .streamlit/secrets.toml
