@@ -375,4 +375,4 @@ Ces principes sont particulièrement adaptés au datajournalisme, où un dataset
 
 ## Licence
 
-Choisir une licence adaptée à l'usage visé, par exemple MIT pour un projet ouvert ou une licence interne si l'outil reste réservé à une rédaction ou une organisation.
+MIT License, voir License
